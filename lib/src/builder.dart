@@ -366,7 +366,7 @@ class RouteBuilder {
     return _pageBuilderForAppType!(
       key: state.pageKey,
       name: state.name ?? state.fullpath,
-      arguments: <String, Object?>{
+      arguments: <String, String?>{
         ...state.params,
         ...state.queryParams,
         if (state.extra is Map<String, String>)
