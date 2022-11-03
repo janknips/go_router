@@ -1,3 +1,17 @@
+## 5.1.2
+
+- Exposes uri and path parameters from GoRouter and fixes its notifications.
+- Updates README
+- Removes dynamic calls in examples.
+
+## 5.1.1
+
+- Removes DebugGoRouteInformation.
+
+## 5.1.0
+
+- Removes urlPathStrategy completely, which should have been done in v5.0.0 but some code remained mistakenly.
+
 ## 5.0.5
 
 - Fixes issue where asserts in popRoute were preventing the app from

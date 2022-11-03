@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/jan/dev/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/jan/AndroidStudioProjects/go_router-5.0.5/example"
+export "FLUTTER_APPLICATION_PATH=/Users/jan/AndroidStudioProjects/go_router/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
